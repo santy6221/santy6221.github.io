@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/santy6221/santy6221.github.io.git/static/css/main.f855e6bc.css",
+    "main.js": "/santy6221/santy6221.github.io.git/static/js/main.1581d4e7.js",
+    "static/js/453.211be4f6.chunk.js": "/santy6221/santy6221.github.io.git/static/js/453.211be4f6.chunk.js",
+    "index.html": "/santy6221/santy6221.github.io.git/index.html",
+    "main.f855e6bc.css.map": "/santy6221/santy6221.github.io.git/static/css/main.f855e6bc.css.map",
+    "main.1581d4e7.js.map": "/santy6221/santy6221.github.io.git/static/js/main.1581d4e7.js.map",
+    "453.211be4f6.chunk.js.map": "/santy6221/santy6221.github.io.git/static/js/453.211be4f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1581d4e7.js"
+  ]
+}
