@@ -29,13 +29,13 @@ const Proyects = () => {
       title: "Wawy",
       description: "Wawy is a virtual assistan or chatbot meant to help relieve stress and anxiety for university students during the COVID-19 pandemic. It was developed using React and Firebase.",
       image: "https://i.pinimg.com/736x/2b/f8/9d/2bf89d05212ecc7270ec88bfcedf8741.jpg",
-      link: "#",
+      link: "https://github.com/santy6221/WawyProject",
     },
     {
       title: "Hades Bot",
       description: "Hades is a Discord bot that allows users to play music, manage their server, and more. It integrates the gpt-3 API to provide a chatbot experience.",
       image: "https://miro.medium.com/v2/resize:fit:1024/1*1jC_k_32g_ppGdP3ejhyNQ.png",
-      link: "#",
+      link: "https://github.com/santy6221/HadesBot",
     },
   ];
 
