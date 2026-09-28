@@ -20,6 +20,12 @@ const Proyects = () => {
 
   const proyects = [
     {
+      title: "Cóctel Codex",
+      description: "Cocktail catalog built with React and Vite. It lets users search cocktails, filter by category, and explore ingredients and recipes in Spanish.",
+      image: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&w=900&q=80",
+      link: "https://github.com/santy6221/alcohol",
+    },
+    {
       title: "Morfi",
       description: "Morfi is a web application that allows user to book a table in a restaurant, order food and pay online. It was developed using the MERN stack.",
       image: "https://camo.githubusercontent.com/b214233b9b28b8529561d65a0b6c59fb266e41be1aeab9fb99ede6b3d309a689/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f6254517274753332576b6f746933616e6d2d6150345151676c6b725a363366414c6443566e646d77764b52796a4845504a45486b434464666f664238596f51576c68574454516732797638715036394d72597649784e587a4c6d55486643594846626568346d354169706f737a6e6c4c534f4c7756714671417a7630665741416169523278363330434e766e6638703346537644425451",
